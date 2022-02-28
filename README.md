@@ -11,7 +11,7 @@ A website that offers social solution services
 https://infinissible.github.io/Ch01-Horiseon-accessibility/
 
 ## Screenshot
-<img src="./screenshot.png" alt="" />
+<img src="./Screenshot.png" alt="" />
 
 ## Contribution
 Made with ❤️️ by Horiseon
